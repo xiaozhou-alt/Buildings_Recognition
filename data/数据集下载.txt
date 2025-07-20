@@ -1,0 +1,9 @@
+数据集获取请前往：
+Kaggle：
+Buildings_Recognition-origin：
+https://www.kaggle.com/datasets/rexinshiminxiaozhou/buildings-recognition
+Buildings_Recognition-processed：
+https://www.kaggle.com/datasets/rexinshiminxiaozhou/buildings-recognition-processed
+
+或阿里云天池官网比赛官网：
+https://tianchi.aliyun.com/competition/entrance/531872/rankingList
