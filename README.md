@@ -151,3 +151,5 @@ PATIENCE : 早停耐心值(默认5)
 战绩可查  ∠( ᐛ 」∠)_：
 
 ![loss](./output/pic/record.png)
+
+更多信息请关注我的博客CSDN：[基于 U-Net 架构从航拍图像中分割建筑物](https://blog.csdn.net/soejjdiwjssundo/article/details/149448081)
